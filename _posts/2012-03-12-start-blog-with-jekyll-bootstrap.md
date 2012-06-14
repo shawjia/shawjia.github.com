@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Start Blog with Jekyll Bootstrap"
+title: "用 Jekyll Bootstrap 写博客"
 category:
-tags: [Jekyll]
+tags: [other]
 ---
 {% include JB/setup %}
 
