@@ -2,8 +2,8 @@
 layout: post
 title: "从 SVN 到 Git(如何搭建 Git 服务器)"
 description: ""
-category: 
-tags: []
+category: Dev
+tags: [SVN, Git, gitolite]
 ---
 {% include JB/setup %}
 

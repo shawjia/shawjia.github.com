@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "用 Jekyll Bootstrap 写博客"
-category:
-tags: [other]
+category: Other
+tags: [Octopress, Jekyll Bootstrap]
 ---
 {% include JB/setup %}
 

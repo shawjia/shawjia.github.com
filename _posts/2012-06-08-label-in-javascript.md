@@ -2,8 +2,8 @@
 layout: post
 title: "JavaScript 中的 label"
 description: ""
-category: 
-tags: [JS]
+category: Dev
+tags: [JavaScript, label]
 ---
 {% include JB/setup %}
 

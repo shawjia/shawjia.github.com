@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "辞职记"
-category: 
-tags: [work]
+category: Other
+tags: [辞职, 工作]
 ---
 {% include JB/setup %}
 
