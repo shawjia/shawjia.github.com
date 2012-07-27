@@ -2,7 +2,7 @@
 layout: post
 title: "另一个新开始"
 description: ""
-category: other
+category: Other
 tags: [工作]
 ---
 {% include JB/setup %}
